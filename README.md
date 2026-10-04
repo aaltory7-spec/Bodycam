@@ -14,3 +14,6 @@ color fringing and softer sharpness.
 Restore your backup Engine.ini
 
 Note: visual changes only. Use at your own risk.
+## Version 2
+Adds higher character and texture quality.
+Copy these lines under [SystemSettings] in your Engine.ini.
