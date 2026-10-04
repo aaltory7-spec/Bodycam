@@ -1,0 +1,11 @@
+Realistic Gunshot Sounds - Bodycam Mod
+
+Replaces the default gunshot sounds with realistic recordings.
+
+Install:
+1. Copy the .pak file to Bodycam\Content\Paks\~mods
+2. Launch the game
+
+Uninstall: delete the file from ~mods
+Credits: sounds from freesound.org (CC0)
+Note: single player only, back up your Paks folder first.
